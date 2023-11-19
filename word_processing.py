@@ -1,1 +1,3 @@
-
+"""
+Beginning of psychological trauma
+"""
